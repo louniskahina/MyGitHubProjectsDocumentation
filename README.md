@@ -21,6 +21,9 @@
 6: https://github.com/louniskahina/MyAsyncAwaitProject
 
 
+7:https://github.com/louniskahina/GraphQLwithSwiftUIProject
+1st version-> to be improved
+![graphql-swiftui-listofmovies](https://github.com/user-attachments/assets/2b904d43-ee0b-424e-9e57-b12b3b9fb3e3)
 
 
 
