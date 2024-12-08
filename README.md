@@ -22,8 +22,11 @@
 
 
 7:https://github.com/louniskahina/GraphQLwithSwiftUIProject
-1st version-> to be improved
+links: https://vincenzopascarella.medium.com/unleashing-the-power-of-graphql-in-your-ios-app-67e0f768cb14
+to be improved
 ![graphql-swiftui-listofmovies](https://github.com/user-attachments/assets/2b904d43-ee0b-424e-9e57-b12b3b9fb3e3)
+![graphqlswiftui](https://github.com/user-attachments/assets/80cb52ad-53c3-4a54-ad6e-e7a6236f1c25)
+
 
 
 
